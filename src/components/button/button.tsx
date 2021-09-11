@@ -29,3 +29,5 @@ export const Button:FC<ButtonTypes> = ({ onClick, label = "Some label", outlined
     </button>
   )
 };
+
+export default Button
